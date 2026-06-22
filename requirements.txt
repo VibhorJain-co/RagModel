@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+llama-cpp-python
+faiss-cpu
+transformers
+sentence-transformers
+PyPDF2
+pypdf
+huggingface-hub
+tqdm
